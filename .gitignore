@@ -11,6 +11,4 @@
 *.iws
 .idea/
 
-java/target/**
-kotlin/target/**
-
+target/
